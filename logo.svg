@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Romans6 logo">
+  <defs>
+    <clipPath id="s"><path d="M32 4 L54 12 V30 C54 44 44 54 32 60 C20 54 10 44 10 30 V12 Z"/></clipPath>
+  </defs>
+  <g clip-path="url(#s)">
+    <rect width="64" height="64" fill="#1f4e5a"/>
+    <circle cx="32" cy="38" r="9" fill="#c9822b"/>
+    <rect x="0" y="38" width="64" height="26" fill="#1f4e5a"/>
+    <path d="M18 42 H46" stroke="#fbf7f0" stroke-width="2.4" stroke-linecap="round"/>
+  </g>
+  <path d="M32 22 V26 M21 27 L23.5 29.5 M43 27 L40.5 29.5 M17 37 H20.5 M47 37 H43.5" stroke="#c9822b" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M32 4 L54 12 V30 C54 44 44 54 32 60 C20 54 10 44 10 30 V12 Z" fill="none" stroke="#c9822b" stroke-width="1.5"/>
+</svg>
